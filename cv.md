@@ -3,28 +3,35 @@
 
 **E-mail‌:‌** ‌marinakarpovskaya‌@gmail.com‌
 
-**github‌** ‌-‌ ‌‌https://github.com/marinamarine/‌ ‌
+**github‌** ‌-‌ [‌‌https://github.com/marinamarine/‌‌‌](https://github.com/marinamarine/‌) ‌
 
 
 ## Summary‌
 
 Novice‌ ‌frontend-developer‌ ‌with‌ ‌technical‌ ‌education.‌ ‌Confident‌ ‌knowledge‌ ‌of‌ ‌HTML,‌ ‌CSS/SCSS,‌ ‌JavaScript,‌ ‌a‌ ‌bit‌ ‌of‌ ‌PHP.‌‌  
-Wish‌ ‌to‌ ‌work‌ ‌with‌ ‌skilled‌ ‌and‌ ‌motivated‌ ‌team,‌ ‌where‌ ‌I‌ ‌can‌ ‌benefit.‌ ‌
+Wish‌ ‌to‌ ‌work‌ ‌with‌ ‌skilled‌ ‌and‌ ‌motivated‌ ‌team,‌ ‌where‌ ‌I‌ ‌can‌ ‌benefit.‌
+
 
 ## Technical‌ ‌Skills‌ ‌
 
-**Programming‌ ‌languages‌ ‌and‌ ‌technologies:‌‌** ‌HTML,‌ ‌CSS/SCSS,‌ ‌JavaScript,‌ ‌Adaptiva‌ ‌/‌ ‌Responsive‌ ‌markup,‌ ‌PHP‌ ‌ 
-**Programming‌ ‌practices:‌‌** ‌Kanban,‌ ‌Agile,‌ ‌Scrum,‌ ‌Code‌ ‌review‌ ‌ 
-**Frameworks‌ ‌and‌ ‌Libraries:‌‌** ‌jQuery,‌ ‌bootstrap,‌ ‌Angular,‌ ‌GreenSock,‌ ‌1c-Bitrix‌ ‌API‌ ‌ 
-**Tools:‌‌** ‌GIT‌,‌‌ ‌Webpack,‌  ‌Yarn,‌ ‌Gulp,‌ ‌phpDesigner,‌ ‌VS‌ ‌Code,‌ ‌Sublime‌ ‌Text‌ ‌3,‌ ‌Photoshop,‌ ‌Figma,‌ ‌Trello‌ ‌ 
-**Other‌ ‌skills:‌**‌ ‌CMS‌ ‌1С‌ ‌Bitrix‌ ‌customization,‌ ‌advanced‌ ‌Windows‌ ‌user,‌ ‌video‌ ‌recording‌ ‌ 
+**Programming‌ ‌languages‌ ‌and‌ ‌technologies:‌‌** ‌HTML,‌ ‌CSS/SCSS,‌ ‌JavaScript,‌ ‌Adaptiva‌ ‌/‌ ‌Responsive‌ ‌markup,‌ ‌PHP‌
+
+**Programming‌ ‌practices:‌‌** ‌Kanban,‌ ‌Agile,‌ ‌Scrum,‌ ‌Code‌ ‌review‌
+
+**Frameworks‌ ‌and‌ ‌Libraries:‌‌** ‌jQuery,‌ ‌bootstrap,‌ ‌Angular,‌ ‌GreenSock,‌ ‌1c-Bitrix‌ ‌API‌
+
+**Tools:‌‌** ‌GIT‌,‌‌ ‌Webpack,‌  ‌Yarn,‌ ‌Gulp,‌ ‌phpDesigner,‌ ‌VS‌ ‌Code,‌ ‌Sublime‌ ‌Text‌ ‌3,‌ ‌Photoshop,‌ ‌Figma,‌ ‌Trello‌
+
+**Other‌ ‌skills:‌**‌ ‌CMS‌ ‌1С‌ ‌Bitrix‌ ‌customization,‌ ‌advanced‌ ‌Windows‌ ‌user,‌ ‌video‌ ‌recording‌
 
 
 ## Experience‌ ‌
 
-**WSP-Design,‌ ‌11.2016‌ ‌–‌ ‌now‌** ‌ 
-**Position:‌‌** ‌Technical‌ ‌support‌ ‌specialist‌ ‌and‌ ‌frontend-developer‌ ‌ 
-**Responsibilities‌ ‌included:‌**‌   
+**WSP-Design,‌ ‌11.2016‌ ‌–‌ ‌now‌**
+
+**Position:‌‌** ‌Technical‌ ‌support‌ ‌specialist‌ ‌and‌ ‌frontend-developer‌
+
+**Responsibilities‌ ‌included:‌**‌
 * estimations‌ ‌
 * implement‌ ‌features‌ ‌
 * refactorings‌ ‌
@@ -34,7 +41,7 @@ Wish‌ ‌to‌ ‌work‌ ‌with‌ ‌skilled‌ ‌and‌ ‌motivated‌ �
 
 ## Education‌ ‌
 
-Belarusian‌ ‌State‌ ‌University‌ ‌of‌ ‌Informatics‌ ‌and‌ ‌Radioelectronics,‌ ‌Minsk,‌ ‌Belarus‌ ‌  ‌
+Belarusian‌ ‌State‌ ‌University‌ ‌of‌ ‌Informatics‌ ‌and‌ ‌Radioelectronics,‌ ‌Minsk,‌ ‌Belarus‌  
 Specialist‌ ‌(Bachelor‌ ‌Degree)‌ ‌–‌ ‌Artificial‌ ‌Intelligent‌ ‌(‌ ‌Systems‌ ‌Engineering‌ ‌)‌ ‌
 
 
