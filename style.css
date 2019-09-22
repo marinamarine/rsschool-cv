@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 html, 
 body, 
 div{
@@ -37,7 +40,7 @@ main {
   margin: 1rem auto;
   padding: 1rem;
   background-color: #e1eac9;
-  box-shadow: 1px 1px 5px 1px #fdeeca;;
+  box-shadow: 1px 1px 5px 1px #c7ceb6;;
 }
 figure {
   position: relative;
