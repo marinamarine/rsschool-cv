@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+}
+html, 
+body, 
+div{
+  margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+  font-family: "Helvetica", "Tahoma", sans-serif;
+  color: #0c0c0c;
+  background-color: #ffffff;
+}
+p {
+  line-height: 1.5;
+  font-size: 0.85rem;
+}
+a {
+  color: #080808;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+h1 {
+  text-transform: uppercase;
+}
+main {
+  max-width: 1024px;
+  margin: 1rem auto;
+  padding: 1rem;
+  background-color: #e1eac9;
+  box-shadow: 1px 1px 5px 1px #c7ceb6;;
+}
+figure {
+  position: relative;
+  float: left;
+  max-height: 300px;
+  max-width: 300px;
+  margin: 0 2rem 1rem 0;
+  border: 1px solid #fef3d9;
+}
+figure:before {
+  position: absolute;
+  content: "";
+  top: 20px;
+  right: 20px;
+  left: 20px;
+  bottom: 20px;
+  border: 3px solid #ebdabc;
+}
+@media screen and (max-width: 600px) {
+  main {
+    text-align: center;
+  }
+  figure {
+    float: none;
+    margin: 1rem auto;
+  }
+}
